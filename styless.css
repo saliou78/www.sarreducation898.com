@@ -1,0 +1,107 @@
+nav.N1 ul li.bnt{
+	list-style-type: none;
+}
+nav.N1 ul li a{
+	color: red;
+	
+	font-size: 25px;
+}
+nav.N1 ul li.bnt:hover a{
+	color: white;
+	background-color: black;
+	transition: 0.4s;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+p.cl1{
+	color: blue;
+	background-color: white;
+	font-size: 50px;
+}
+p.cl2{
+	color: blue;
+	background-color: white;
+	font-size: 40px;
+
+}
+p.cl3{
+	color: blue;
+	background-color: white;
+	font-size: 30px;
+}
+body{
+	background: url("img/R.jpg") no-repeat;
+	background-size: 100%;
+
+}
+h2.h1{
+	color: yellow;
+	font-size:5.3em;
+	padding-left: 200px;
+}
+footer.f1{
+	color: red;
+}
+form.ev1{
+	
+	padding-left: 71.0em;
+	background-size: 100%;
+
+}
+form.ev2{
+	color: blue;
+	padding: 0px 16px;
+
+}
+p.fin{
+	color: red;
+}
+fieldset{
+	/*padding: 0px;*/
+	margin-top: 70px;
+	width: 27%;
+	background-color: yellow;.;
+	box-shadow: 5px 5px 20px 1px 10px rgb(85, 85, 85) ;
+	border: 0px;
+	padding-left: 10px;
+	border-radius: 10px 10px 10px 10px;
+	color: blue;
+	height: 430px;
+
+
+}
+td{letter-spacing: 1px;}
+h1{
+	font-family: andalus;
+	letter-spacing: 3px;
+	text-align: center;
+	color: blue;
+}
+hr{
+	border: 5px solid white ;
+	border-radius: 10px;
+	width: 40%;
+
+}
+ul li{margin-left: 20px; color: white;}
+
+#submit{
+	margin: 20px 35px ;
+	color:blue ;
+	background-color: blue;
+	width: 80%;
+	font-size: 17px;
+	border-radius: 20px;
+	border: 10px solid white;
+}
